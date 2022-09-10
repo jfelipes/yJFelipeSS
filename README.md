@@ -52,5 +52,5 @@ public class JFelipeSS extends Person {
 }
 ```
 
-<img src="https://media3.giphy.com/media/f7b9ltJ4FrhnsKjYx2/giphy.gif">
 ###### TODO: Improve this README file
+<img src="https://media3.giphy.com/media/f7b9ltJ4FrhnsKjYx2/giphy.gif">
